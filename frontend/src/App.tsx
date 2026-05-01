@@ -4,7 +4,6 @@ import {
   Sparkles, 
   Cpu, 
   Server, 
-  Database, 
   LayoutTemplate,
   Activity,
   Code
